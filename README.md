@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI ML, Data Structures and Algorithms, 3D web development with three.js**
 
-- 🏫 I'm currently studying **Computer Science in the AI ML Stream and a minor in Psychology**
+- 🏫 I'm currently studying **Computer Science in the AI ML Stream with a minor in Psychology**
 
 - 👨‍💻 All of my projects are available at [https://www.ryushen.com/](https://www.ryushen.com/)
 
