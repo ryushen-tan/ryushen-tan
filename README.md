@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ryushen@gmail.com**
 
-- ⚡ Fun fact **I'm absolute love playing volleyball**
+- ⚡ Fun fact **I absolutely love playing volleyball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
