@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryushen Tan</h1>
-<h3 align="center">Hi! I’m Ryushen, a software-obsessed, hardware-infatuated student that loves all things tech related. As a Computer Science undergrad attending Carleton University, I love exploring computer science beyond my classes by coding projects, and doing hackathons! Check out some of my projects and experiences down below!</h3>
+<br/>
+<h3 align="left">Hi! I’m Ryushen, a software-obsessed, hardware-infatuated student that loves all things tech related. As a Computer Science undergrad attending Carleton University, I love exploring computer science beyond my classes by coding projects, and doing hackathons! Check out some of my projects and experiences down below!</h3>
 
 - 🔭 I’m currently working on [mibu](https://mibu.ai/)
 
