@@ -1,4 +1,4 @@
-<h1 align="left">Hello I'm Ryu</h1>
+<h1 align="left"> - Ryushen Tan -</h1>
 <br/>
 <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/c1b66dec-31a5-46c4-b6a6-37aacdfb6f7b" />
 
