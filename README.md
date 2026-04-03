@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Ryushen Tan</h1>
 <br/>
 
-- 🔭 I’m currently working on [TFTAcademy Overlay]([https://tftacademy.com/overlay))
+- 🔭 I’m currently working on [TFTAcademy Overlay]([https://tftacademy.com/overlay)
 
 - 🌱 I’m currently learning **AI ML, Data Structures and Algorithms, 3D web development with three.js**
 
