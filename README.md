@@ -1,17 +1,11 @@
-<h1 align="left">Hi 👋, I'm Ryushen Tan</h1>
+<h1 align="left">Hello I'm Ryu</h1>
 <br/>
-
-- 🔭 I’m currently working on [TFTAcademy Overlay]([https://tftacademy.com/overlay)
-
-- 🌱 I’m currently learning **AI ML, Data Structures and Algorithms, 3D web development with three.js**
-
-- 🏫 I'm currently studying **Computer Science in the AI ML Stream with a minor in Psychology**
-
-- 💬 Ask me about **React, Tailwind CSS, three.js, Psychology**
-
-- 📫 How to reach me **ryushen@gmail.com**
-
-- ⚡ Fun fact **I absolutely love playing volleyball**
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/c1b66dec-31a5-46c4-b6a6-37aacdfb6f7b" />
+ > I’m currently working on [TFTAcademy Overlay]([https://tftacademy.com/overlay)
+ > I’m currently learning **AI ML, Data Structures and Algorithms, 3D web development with three.js**
+ > I'm currently studying **Computer Science in the AI ML Stream with a minor in Psychology**
+ > How to reach me **ryushen@gmail.com**
+ > Fun fact **I absolutely love playing volleyball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
