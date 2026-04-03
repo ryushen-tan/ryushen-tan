@@ -1,14 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ryushen Tan</h1>
+<h1 align="left">Hi 👋, I'm Ryushen Tan</h1>
 <br/>
-<h3 align="left">Hi! I’m Ryushen, a software-obsessed, hardware-infatuated student that loves all things tech related. As a Computer Science undergrad attending Carleton University, I love exploring computer science beyond my classes by coding projects, and doing hackathons! Check out some of my projects and experiences down below!</h3>
 
-- 🔭 I’m currently working on [mibu](https://mibu.ai/)
+- 🔭 I’m currently working on [TFTAcademy Overlay]([https://mibu.ai/](https://tftacademy.com/overlay))
 
 - 🌱 I’m currently learning **AI ML, Data Structures and Algorithms, 3D web development with three.js**
 
 - 🏫 I'm currently studying **Computer Science in the AI ML Stream with a minor in Psychology**
-
-- 👨‍💻 All of my projects are available at [https://www.ryushen.com/](https://www.ryushen.com/)
 
 - 💬 Ask me about **React, Tailwind CSS, three.js, Psychology**
 
