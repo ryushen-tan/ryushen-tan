@@ -7,6 +7,8 @@
 > I'm currently studying **Computer Science in the AI ML Stream with a minor in Psychology** <br/>
 > How to reach me **ryushen@gmail.com** <br/>
 > Fun fact **I absolutely love playing volleyball**
+
+<br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/ryushen/" target="_blank">
     <img height="40" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
