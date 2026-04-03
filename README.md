@@ -9,11 +9,11 @@
 > Fun fact **I absolutely love playing volleyball**
 
 <br/>
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ryushen/" target="_blank">
     <img height="40" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
+<br />
   <a href="https://x.com/RyushenTan" target="_blank">
     <img height="40" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
