@@ -7,15 +7,16 @@
 > I'm currently studying **Computer Science in the AI ML Stream with a minor in Psychology** <br/>
 > How to reach me **ryushen@gmail.com** <br/>
 > Fun fact **I absolutely love playing volleyball**
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ryushen/" target="_blank">
-    <img height="45" src="https://github-readme-badge.vercel.app/api/social?name=LinkedIn&icon=linkedin&color=0A66C2" />
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
   <a href="https://instagram.com/ryushentan" target="_blank">
-    <img height="45" src="https://github-readme-badge.vercel.app/api/social?name=Instagram&icon=instagram&color=E4405F" />
+    <img height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  
   <a href="https://x.com/RyushenTan" target="_blank">
-    <img height="45" src="https://github-readme-badge.vercel.app/api/social?name=X&icon=x&color=000000" />
+    <img height="40" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
