@@ -9,7 +9,13 @@
 > Fun fact **I absolutely love playing volleyball**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ryushen/" target="_blank"><img height="32" src="https://cdn.simpleicons.org/linkedin" /></a>
-  <a href="https://instagram.com/ryushentan" target="_blank"><img height="32" src="https://cdn.simpleicons.org/instagram" /></a>
-  <a href="https://x.com/RyushenTan" target="_blank"><img height="32" src="https://cdn.simpleicons.org/x" /></a>
+  <a href="https://www.linkedin.com/in/ryushen/" target="_blank">
+    <img height="45" src="https://github-readme-badge.vercel.app/api/social?name=LinkedIn&icon=linkedin&color=0A66C2" />
+  </a>
+  <a href="https://instagram.com/ryushentan" target="_blank">
+    <img height="45" src="https://github-readme-badge.vercel.app/api/social?name=Instagram&icon=instagram&color=E4405F" />
+  </a>
+  <a href="https://x.com/RyushenTan" target="_blank">
+    <img height="45" src="https://github-readme-badge.vercel.app/api/social?name=X&icon=x&color=000000" />
+  </a>
 </p>
