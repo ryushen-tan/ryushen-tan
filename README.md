@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/dumachew"><img height="360" src="https://spotify-github-profile.kittinanx.com/api/view?uid=dumachew&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=3fb950&bar_color_cover=true" alt="Spotify: now playing" /></a>
+  <img height="360" src="./tools.svg" alt="Dev tools: Claude Code, Codex, Orca, Backboard, Unreal 5, Godot, Unity, Roblox Studio, Blender, Docker, GitHub Actions, Vercel, Supabase, Cloudflare, RunPod, Git, macOS, Linux, Figma" />
   &nbsp;
   <a href="https://x.com/RyushenTan"><img height="360" src="https://readme-x-cards.vercel.app/api/feed?user=RyushenTan&count=3&theme=terminal" alt="Latest posts on X" /></a>
 </p>
