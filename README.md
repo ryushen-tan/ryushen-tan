@@ -2,10 +2,10 @@
 
 <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/c1b66dec-31a5-46c4-b6a6-37aacdfb6f7b" />
 
-I build AI agents that make things: games, tools, and the occasional robot wheelchair. CS (AI & ML stream) at Carleton University, **12x hackathon winner**, and right now:
+I build AI agents that make things: games, tools, and the occasional robot wheelchair. CS (AI & ML stream) at Carleton University, **13x hackathon winner**, and right now:
 
 - 🐉 **Building [Ryuo](https://ryuo.ai)**, an AI studio for game developers. You describe the game; Ryuo's agents build it inside **Unreal Engine, Godot, Unity, Roblox or the web** (three.js and Phaser), as real engine code and assets you own.
-- 🧠 **Software engineer at [Backboard.io](https://backboard.io)**: built the self-serve Capsule platform (a fine-tuned 27B model on vLLM with a custom GPU provisioner, **~73% cheaper per capsule**) and pushed the Backboard CLI to a **SOTA 84%+ on Terminal-Bench 2.0**.
+- 🧠 **Member of Technical Staff at [Backboard.io](https://backboard.io)**: built the self-serve Capsule platform (a fine-tuned 27B model on vLLM with a custom GPU provisioner, **~73% cheaper per capsule**) and pushed the Backboard CLI to a **SOTA 84%+ on Terminal-Bench 2.0**.
 - 🎮 **Core engineer at [TFTAcademy](https://tftacademy.com)**: the site serves **5M+ Teamfight Tactics players a month**, and I built its in-game [overlay](https://tftacademy.com/overlay) for **75K+ players**, with shop markers that land with near-zero delay.
 
 ## 🏆 Hackathons
