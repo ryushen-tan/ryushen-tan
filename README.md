@@ -14,7 +14,7 @@ I build AI agents that make things: games, tools, and the occasional robot wheel
 | --- | --- |
 | 🥇 **Hack the North 2026**, OpenAI 1st Place | **Granny Waymo**: an RC car torn down into an agentic wheelchair that drives itself with an iPhone's LiDAR and GPT-6 Astra, streams a live 3D map with object detection, and turns the hacker badge into its manual controller |
 | 🥇 **SOON 2026**, 1st Place Overall | **Oyster**: a real-time AI game agent overlay that changes a running Godot game from prompts, images and sketches, including sketch-to-3D and hot reload |
-| 🏅 More wins | Hack the North 2024 winner · uOttaHack 8 2nd place · HawkHacks 2024 2nd place · AGI Ventures 2026 winner · cuHacking 6 Best Use of Gen AI · McHacks 11 challenge winner · McHacks 12 IFEM feature · ConUHacks challenge winner · SOON 2026 best social media post |
+| 🏅 More wins | SOON 2026 Part 2 3rd place · Hack the North 2024 winner · uOttaHack 8 2nd place · HawkHacks 2024 2nd place · AGI Ventures 2026 winner · cuHacking 6 Best Use of Gen AI · McHacks 11 challenge winner · McHacks 12 IFEM feature · ConUHacks challenge winner · SOON 2026 best social media post |
 
 ## 🛠️ Things I've shipped
 
